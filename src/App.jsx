@@ -104,8 +104,8 @@ function App() {
   return (
     <>
       <div className='tab-container'>
-        <Upload accept=".json"
-          label="Faça o Upload dos registros aqui"
+        <Upload className='upload-container' accept=".json"
+          label="Faça o upload dos registros aqui"
           onChange={handleFileUpload}
           uploadTimeout={() => {
             return new Promise((resolve) => {
