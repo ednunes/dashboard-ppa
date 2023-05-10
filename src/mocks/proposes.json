@@ -1,0 +1,3672 @@
+[
+  {
+    "id": 9,
+    "category": {
+      "id": 30,
+      "name": {
+        "pt-BR": "Mulheres"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Proposta teste de limitação de caracteres do campo"
+    },
+    "body": {
+      "pt-BR": "Proposta teste de limitação de caracteres do campo\ngid://decide/Decidim::Hashtag/1/_Acre"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "withdrawn",
+    "reference": "lab-decidim-PROP-2023-04-9",
+    "answer": {
+      "en": "",
+      "pt-BR": "<p>Foi rejeitada</p>"
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-04-18 16:48:26 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/9",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 8,
+    "category": {
+      "id": 24,
+      "name": {
+        "pt-BR": "Infraestrutura"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Segurança energética sustentável"
+    },
+    "body": {
+      "pt-BR": "Assegurar o suprimento de energia elétrica a população e ao mercado brasileiro em condições adequadas de qualidade e equilíbrio entre segurança e preço, de forma sustentável.\ngid://decide/Decidim::Hashtag/1/_Acre"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "accepted",
+    "reference": "lab-decidim-PROP-2023-04-8",
+    "answer": {
+      "en": "",
+      "pt-BR": "<p>Proposta aceita.</p>"
+    },
+    "supports": 4,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-04-18 13:31:47 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/8",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 7,
+    "category": {
+      "id": 23,
+      "name": {
+        "pt-BR": "Saúde"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Fortalecer a proteção, promoção e recuperação da Saúde Indígena"
+    },
+    "body": {
+      "pt-BR": "Criar um plano interministerial de apoio a saúde indígena levando em consideração os custos de desafios de deslocamento para levar até a quem precisa os instrumentos e pessoal necessário para promover saúde digna aos povos ancestrais."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "rejected",
+    "reference": "lab-decidim-PROP-2023-04-7",
+    "answer": {
+      "en": "",
+      "pt-BR": "<p>rejeitada</p>"
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 3,
+    "published_at": "2023-04-18 13:23:47 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/7",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 39,
+    "category": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Hjhdjhjh jhjhsajd jhjhjhj dsjahdjsa"
+    },
+    "body": {
+      "pt-BR": "Jhsaj hdjsah jh jhs djsha j<p>texto</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "evaluating",
+    "reference": "lab-decidim-PROP-2023-05-39",
+    "answer": {
+      "en": "",
+      "pt-BR": "<p>Agradecemos sua proposta ela é muito importante. Em breve daremos retorno sobre sua situaçao.</p>"
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-03 00:08:16 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/39",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 10,
+    "category": {
+      "id": 24,
+      "name": {
+        "pt-BR": "Infraestrutura"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Segurança energética sustentável "
+    },
+    "body": {
+      "pt-BR": "Assegurar o suprimento de energia elétrica a população e ao mercado brasileiro em condições adequadas de qualidade e equilíbrio entre segurança e preço, de forma sustentável."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "accepted",
+    "reference": "lab-decidim-PROP-2023-04-10",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 2,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-04-20 06:54:52 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/10",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 17,
+    "category": {
+      "id": 33,
+      "name": {
+        "pt-BR": "Esporte"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Esporte e lazer nos municípios"
+    },
+    "body": {
+      "pt-BR": "Programa para esporte e lazer nos municipios para pessoas com deficiencia"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "evaluating",
+    "reference": "lab-decidim-PROP-2023-04-17",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 2,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-04-24 14:54:59 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/17",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 6,
+    "category": {
+      "id": 22,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Programa Viveiros Educativos"
+    },
+    "body": {
+      "pt-BR": "Federalizar o Programa Viveiros Educativos do MEC com foco em projetos de segurança alimentar e produção de mudas para reflorestamento de áreas degradas dos biomas brasileiros."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "withdrawn",
+    "reference": "lab-decidim-PROP-2023-04-6",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-04-18 09:55:59 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/6",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 45,
+    "category": {
+      "id": 30,
+      "name": {
+        "pt-BR": "Mulheres"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Minha proposta minha vida"
+    },
+    "body": {
+      "pt-BR": "Minha proposta minha vida.\nFuncionou desta vez, vai funcionar sempre.\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-45",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-04 15:09:49 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/45",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 15,
+    "category": {
+      "id": 28,
+      "name": {
+        "pt-BR": "Mobilidade, Saneamento e Moradia"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Casa popular em Jundiaí-SP"
+    },
+    "body": {
+      "pt-BR": "Aqui nunca chega o Minha Casa Minha Vida! Precisamos de faixa 1 porque os pobres são expulsos da cidade pelo alto preço do aluguel!"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "rejected",
+    "reference": "lab-decidim-PROP-2023-04-15",
+    "answer": {
+      "en": "",
+      "pt-BR": "<p>Sua proposta viola os termos de uso da plataforma</p>"
+    },
+    "supports": 2,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-04-20 07:12:52 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/15",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 13,
+    "category": {
+      "id": 22,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Programa Viveiros Educativos"
+    },
+    "body": {
+      "pt-BR": "Nacionalizar o Programa Viveiros Educativos do MEC com foco em projetos de segurança alimentar e produção de mudas para reflorestamento de áreas degradas dos biomas brasileiros."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "evaluating",
+    "reference": "lab-decidim-PROP-2023-04-13",
+    "answer": {
+      "en": "",
+      "pt-BR": "<p>Recebemos sua proposta! </p>"
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-04-20 07:09:23 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/13",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 14,
+    "category": {
+      "id": 23,
+      "name": {
+        "pt-BR": "Saúde"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Programa Nacional de aproveitamento de Águas"
+    },
+    "body": {
+      "pt-BR": "Lançar um programa nacional para que seja feito o aproveitamento de água das chuvas com a construção de cacimbas e cisternas com financiamento governamental além de sistemas de reaproveitamento de águas domésticas nas residências de pessoas atendidas pelos programas de transferência de renda do governo."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "accepted",
+    "reference": "lab-decidim-PROP-2023-04-14",
+    "answer": {
+      "en": "",
+      "pt-BR": "<p>Aceitamos a sua proposta</p>"
+    },
+    "supports": 2,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-04-20 07:10:40 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/14",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 12,
+    "category": {
+      "id": 33,
+      "name": {
+        "pt-BR": "Esporte"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Popularização dos espaços para prática de esportes"
+    },
+    "body": {
+      "pt-BR": "Com a ajuda da comunidade podemos aprimorar os espaços de lazer e prática esportiva em todos os espaços educativos com foco nas escolas que deverão abrir nos finais de semana para a comunidade tendo acesso tanto a equipamentos esportivos quanto profissionais que farão o acompanhamento das atividades."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "evaluating",
+    "reference": "lab-decidim-PROP-2023-04-12",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 3,
+    "published_at": "2023-04-20 07:01:15 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/12",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 49,
+    "category": {
+      "id": 33,
+      "name": {
+        "pt-BR": "Esporte"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Eu acho que pode ter mais visibilidade para a proposta"
+    },
+    "body": {
+      "pt-BR": "Poderia ampliar tipo um formato de um desenho para chamar mais atenção"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-49",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-04 16:45:44 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/49",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 54,
+    "category": {
+      "id": 25,
+      "name": {
+        "pt-BR": "Ciência, Tecnologia e Inovação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Transparência de ponta a ponta"
+    },
+    "body": {
+      "pt-BR": "Proposta para que a transparência orçament´paria tenha indicadores que permitam que cada investimento do governo possa ser acompanhado do nível da ação de governo até o nível da nota de empenho na execução orçamentária"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-54",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-04 20:19:22 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/54",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 26,
+    "category": {
+      "id": 24,
+      "name": {
+        "pt-BR": "Infraestrutura"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Melhoria do saneamento nas ruas do São José"
+    },
+    "body": {
+      "pt-BR": "Melhorar a vida do cidadão do bairro São José que sofre que os esgotos a céu aberto."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-04-26",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-04-28 14:54:16 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/26",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 18,
+    "category": {
+      "id": 36,
+      "name": {
+        "pt-BR": "Cultura"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Cultura Viva para todos os estudantes"
+    },
+    "body": {
+      "pt-BR": "Aprimorar o planejamento, a gestão e a infraestrutura de mobilidade urbana em cidades e regiões.\n\nAprimorar o planejamento, a gestão e a infraestrutura de mobilidade urbana em cidades e regiões.Aprimorar o planejamento, a gestão e a infraestrutura de mobilidade urbana em cidades e regiões.Aprimorar o planejamento, a gestão e a infraestrutura de mobilidade urbana em cidades e regiões.Aprimorar o planejamento, a gestão e a infraestrutura de mobilidade urbana em cidades e regiões."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "rejected",
+    "reference": "lab-decidim-PROP-2023-04-18",
+    "answer": {
+      "en": "",
+      "pt-BR": "<p>você violou os termos de uso</p>"
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-04-28 12:47:52 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/18",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 43,
+    "category": {
+      "id": 30,
+      "name": {
+        "pt-BR": "Mulheres"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Teste de proposta 2"
+    },
+    "body": {
+      "pt-BR": "Teste de proposta 2teste de proposta 2teste de proposta 2teste de proposta 2teste de proposta 2teste de proposta 2teste de proposta 2teste de proposta 2teste de proposta 2teste de proposta 2teste de proposta 2\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-43",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-03 11:22:11 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/43",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 52,
+    "category": {
+      "id": 26,
+      "name": {
+        "pt-BR": "Meio Ambiente"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Educação Ambiental Popular"
+    },
+    "body": {
+      "pt-BR": "Pelo enfrentamemto às mudanças climáticas"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-52",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-04 17:38:09 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/52",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 40,
+    "category": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Asdfasdfasdfasdfasdfasdf"
+    },
+    "body": {
+      "pt-BR": "Texto asdfas dfasasdfa sdfasdf asdfasdfdf</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-40",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-03 00:22:36 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/40",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 46,
+    "category": {
+      "id": 42,
+      "name": {
+        "pt-BR": "Direitos Humanos e Cidadania "
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Ministério do Namoro"
+    },
+    "body": {
+      "pt-BR": "Cumprir a proposta de campanha amplamente divulgada pelo candidato e agora Presidente da República. A população clama por melhorias relacionais entre todas as pessoas.\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-46",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-04 15:21:03 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/46",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 41,
+    "category": {
+      "id": 28,
+      "name": {
+        "pt-BR": "Mobilidade, Saneamento e Moradia"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Saneamento básico "
+    },
+    "body": {
+      "pt-BR": "Saneamento básico Saneamento básico Saneamento básico Saneamento básico Saneamento básico Saneamento básico Saneamento básico Saneamento básico Saneamento básico"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "withdrawn",
+    "reference": "lab-decidim-PROP-2023-05-41",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-03 10:43:38 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/41",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 11,
+    "category": {
+      "id": 34,
+      "name": {
+        "pt-BR": "Indústria e Comércio"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Programa de Apoio ao Desenvolvimento da Mineração Artesanal e em Pequena Escala"
+    },
+    "body": {
+      "pt-BR": "Propor políticas públicas e estimular o desenvolvimento da mineração artesanal e em pequena escala, com vistas ao desenvolvimento sustentável regional de terras indígenas gerando trabalho e renda para comunidades remascentes de quilombos, ancestrais e ribeirinhas."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-04-11",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 3,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-04-20 06:56:26 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/11",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 55,
+    "category": {
+      "id": 26,
+      "name": {
+        "pt-BR": "Meio Ambiente"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Coleta, armazenamento e reutilização da água da chuva"
+    },
+    "body": {
+      "pt-BR": "<p>Vantagens:</p><ul><li>Fácil captação;</li><li>Possibilidade de lavar carros, garagens, gerar descarga de vasos sanitários, evita a utilização de água potável;</li><li>Reduz o consumo;</li><li>Não tem custo do produto;</li><li>Todos podem fazer.</li></ul><p>Sustentabilidade: Promovendo o desenvolvimento e assegurando os recursos para o futuro, não esgota.</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "accepted",
+    "reference": "lab-decidim-PROP-2023-05-55",
+    "answer": {
+      "en": "",
+      "pt-BR": "<p>Admitida</p>"
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 0,
+    "published_at": "2023-05-05 09:33:06 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/55",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 50,
+    "category": {
+      "id": 22,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Educação Popular no Minha casa minha vida"
+    },
+    "body": {
+      "pt-BR": "Criar programa de educação popular para os beneficiários do Programa Minha Casa Minha Vida\ngid://decide/Decidim::Hashtag/3/Educacão popular\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-50",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-04 17:06:52 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/50",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 57,
+    "category": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Proposta nova para meio ambiente"
+    },
+    "body": {
+      "pt-BR": "Parar o desmatamento e aumentar o reflorestamento\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-57",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-05 12:27:04 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/57",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 56,
+    "category": {
+      "id": 22,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Reaproveitamento da água do chuveiro, máquina de lavar e torneiras residências."
+    },
+    "body": {
+      "pt-BR": "<p>Vantagens: </p><ol><li>Pode ser captada com bacia;</li><li>Pode ser utilizado para gerar descargas e vasos sanitários;</li><li>Menos custo para a unidade, casa ou apartamento;</li><li>Gerando economia nas despesas fixas;</li><li>Todos podem fazer.</li></ol><p>\t\t</p><p>Neste sistema, parte da água é reutilizada na própria residência.</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-56",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 0,
+    "published_at": "2023-05-05 09:42:43 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/56",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 48,
+    "category": {
+      "id": 57,
+      "name": {
+        "pt-BR": "Trabalho e Emprego"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Economia Solidária......"
+    },
+    "body": {
+      "pt-BR": "Criar cadastro nacional de economia Solidária com perfil social e econômico.\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-48",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-04 15:58:32 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/48",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 25,
+    "category": {
+      "id": 22,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Saúde dental nas escolas"
+    },
+    "body": {
+      "pt-BR": "É necessário ter um conjunto itinerante de dentistas para auxiliar na saúde dental nas escolas. Os benefícios se estendem para além dos alunos na medida que educa também suas famílias e reduz os custos com saúde no longo prazo."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "rejected",
+    "reference": "lab-decidim-PROP-2023-04-25",
+    "answer": {
+      "en": "",
+      "pt-BR": "<p>O projeto já existe e se encontram em expansão.</p>"
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-04-28 14:30:55 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/25",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 47,
+    "category": {
+      "id": 25,
+      "name": {
+        "pt-BR": "Ciência, Tecnologia e Inovação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Incentivo a arranjos locais de software público "
+    },
+    "body": {
+      "pt-BR": "Importante estruturar programa de incentivos a arranjos locais de software público para que empresas possam prestar serviços ao Estado"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-47",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-04 15:45:19 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/47",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 44,
+    "category": {
+      "id": 28,
+      "name": {
+        "pt-BR": "Mobilidade, Saneamento e Moradia"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Proposta via iphone pra ver se dá certo "
+    },
+    "body": {
+      "pt-BR": "<b>Texto alternativo</b>\nVamos ver se html funciona\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/bpOSxM0rNPM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-44",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 2,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-04 11:56:30 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/44",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 58,
+    "category": {
+      "id": 45,
+      "name": {
+        "pt-BR": "Justiça e Segurança Pública"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Teste de proposta no meio da reunião"
+    },
+    "body": {
+      "pt-BR": "Segue a proposta\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-58",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-05 12:27:47 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/58",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 24,
+    "category": {
+      "id": 28,
+      "name": {
+        "pt-BR": "Mobilidade, Saneamento e Moradia"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Melhorar o trasnporte p~úblico no Distrito Federal"
+    },
+    "body": {
+      "pt-BR": "Acho que tem que ter mais estações de metrô."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-04-24",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 2,
+    "published_at": "2023-04-28 14:07:28 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/24",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 31,
+    "category": {
+      "id": 33,
+      "name": {
+        "pt-BR": "Esporte"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Acesso ao esporte e lazer em todas as faixas etárias"
+    },
+    "body": {
+      "pt-BR": "Acessar esporte, cultura e lazer nas faixas\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "withdrawn",
+    "reference": "lab-decidim-PROP-2023-05-31",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-02 11:00:44 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/31",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 32,
+    "category": {
+      "id": 36,
+      "name": {
+        "pt-BR": "Cultura"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Garantia de acessibilidade para pessoas com deficiência"
+    },
+    "body": {
+      "pt-BR": "Acesso universal para pessoas com deficiencia"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "withdrawn",
+    "reference": "lab-decidim-PROP-2023-05-32",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-02 11:02:56 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/32",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 36,
+    "category": {
+      "id": 22,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Programa Informática Acessível"
+    },
+    "body": {
+      "pt-BR": "Programa Informática Acessível\n\nPrograma Informática Acessível"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-36",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 2,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-02 15:22:40 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/36",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 28,
+    "category": {
+      "id": 25,
+      "name": {
+        "pt-BR": "Ciência, Tecnologia e Inovação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Sistema nacional de participação social "
+    },
+    "body": {
+      "pt-BR": "Criação de um sistema nacional de participação social para o governo federal.\n\nessa proposta foi criada pelo Movimento de Participação Social em plenária livre."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-28",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-02 10:49:05 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/28",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 33,
+    "category": {
+      "id": 27,
+      "name": {
+        "pt-BR": "Turismo"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Sistema nacional de participação social "
+    },
+    "body": {
+      "pt-BR": "Sistema de participação integrando conselhos e conferências\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-33",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-02 11:03:31 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/33",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 23,
+    "category": {
+      "id": 25,
+      "name": {
+        "pt-BR": "Ciência, Tecnologia e Inovação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Apps de governo \"Zero rating\""
+    },
+    "body": {
+      "pt-BR": "Considerando os amplos percentuais da população que somente consegue acessar a internet via dispositivos móveis (celulares/tablets) e por ser justamente essa parte da população que mais precisa dos aplicativos de governo, é necessário que os aplicativos possam ser acessados mesmo quando não há acesso a pacote de internet ou redes wi-fi. Tal necessidade, nos dias de hoje, é essencial para o devido exercício da cidadania e acesso aos serviços públicos de todos os poderes e em todas as esferas."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "evaluating",
+    "reference": "lab-decidim-PROP-2023-04-23",
+    "answer": {
+      "en": "",
+      "pt-BR": "<p>É necessário levantar<strong> custos associados</strong> para saber a viabilidade.</p>"
+    },
+    "supports": 2,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 2,
+    "published_at": "2023-04-28 13:24:04 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/23",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 51,
+    "category": {
+      "id": 22,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Leitores pela cidadania e diversidade"
+    },
+    "body": {
+      "pt-BR": "Implementar e conectar redes de bibliotecas e outros instrumentos públicos com as escolas de educação básica com o propósito de incentivar a leitura como uma ação que constitua o encantamento e o letramento cidadão. O acesso ao livro como um direito e a leitura como prática efetiva."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-51",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-04 17:28:30 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/51",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 60,
+    "category": {
+      "id": 22,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "EP nas escolas públicas "
+    },
+    "body": {
+      "pt-BR": "Escolas públicas irei entradas pelos princípios da EP…"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-60",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-05 16:01:10 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/60",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 37,
+    "category": {
+      "id": 35,
+      "name": {
+        "pt-BR": "Agricultura e Pecuária"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Garantia de acessibilidade para pessoas com deficiência"
+    },
+    "body": {
+      "pt-BR": "Garantir a acessibilidade para pessoas com deficiência"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-37",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-04 16:50:10 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/37",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 42,
+    "category": {
+      "id": 30,
+      "name": {
+        "pt-BR": "Mulheres"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Teste de proposta 1"
+    },
+    "body": {
+      "pt-BR": "Teste de proposta 1teste de proposta 1teste de proposta 1teste de proposta 1teste de proposta 1teste de proposta 1teste de proposta 1teste de proposta 1teste de proposta 1teste de proposta 1\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "withdrawn",
+    "reference": "lab-decidim-PROP-2023-05-42",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-03 11:20:03 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/42",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 53,
+    "category": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Teste de mensagem muito legal pra gente compartilhar"
+    },
+    "body": {
+      "pt-BR": "Esse aqui é o texto da mensagem tentando ser divertido e simpático."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "withdrawn",
+    "reference": "lab-decidim-PROP-2023-05-53",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-04 19:51:38 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/53",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 19,
+    "category": {
+      "id": 22,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Garantia de acessibilidade para pessoas com deficiência"
+    },
+    "body": {
+      "pt-BR": "Escolas considerarem acessibilidade para pessoas com deficiência"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-04-19",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-04-27 16:56:35 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/19",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 65,
+    "category": {
+      "id": 28,
+      "name": {
+        "pt-BR": "Mobilidade, Saneamento e Moradia"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Revisão teste de todos os planos diretores do país"
+    },
+    "body": {
+      "pt-BR": "Um grande esforço para que todos os entes tenham uma revisão teste considerando regras de acessibilidade e de bom uso e ocupação do solo\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-65",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-08 12:32:07 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/65",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 61,
+    "category": {
+      "id": 22,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Mova Brasil Alfabetização"
+    },
+    "body": {
+      "pt-BR": "MOVA Brasil é um programa de parceria entre entidades da sociedade civil e do governo para enfrentar a questão do analfabetismo  de jovens e adultos no Brasil\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-61",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-05 16:12:38 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/61",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 62,
+    "category": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "OLHA, UMA proposta teste testada de novo"
+    },
+    "body": {
+      "pt-BR": "A<button class=\"accordion\"> tentativa de script</button>\n<div class=\"panel\">\n  <p><a href=#> e link</a> .</p>\n</div>\n\n<script>\nvar acc = document.getElementsByClassName(\"accordion\");\nvar i;\n\nfor (i = 0; i < acc.length; i++) {\n  acc[i].addEventListener(\"click\", function() {\n       this.classList.toggle(\"active\");\n\nvar panel = this.nextElementSibling;\n    if (panel.style.display === \"block\") {\n      panel.style.display = \"none\";\n} else {\n      panel.style.display = \"block\";\n    }\n  });\n}\n<script>\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-62",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-05 19:09:54 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/62",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 67,
+    "category": {
+      "id": 22,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Construção de universidade federal no Paraná"
+    },
+    "body": {
+      "pt-BR": "O Paraná apresenta apenas duas unversidades federais, valor muito inferior ao de outros estados com populações e áreas similares. Uma nova federal para interiorizar o ensino seria importante.\n\ngid://decide/Decidim::Hashtag/4/unversidade pública\ngid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-67",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-08 13:10:24 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/67",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 73,
+    "category": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Cisternas no nordeste"
+    },
+    "body": {
+      "pt-BR": "A região precisa de mais cisternas\ngid://decide/Decidim::Hashtag/5/_PPAParticipativo"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "withdrawn",
+    "reference": "lab-decidim-PROP-2023-05-73",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-08 18:10:53 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/73",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 16,
+    "category": {
+      "id": 26,
+      "name": {
+        "pt-BR": "Meio Ambiente"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Criação da Guarda Ambiental Nacional"
+    },
+    "body": {
+      "pt-BR": "Criar uma força de segurança capaz de atuar desde a inteligência até operações de campo no combate aos crimes ambientais especialmente na região Amazônica.\nComo foi dito antes, será muito legal."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "accepted",
+    "reference": "lab-decidim-PROP-2023-04-16",
+    "answer": {
+      "en": "",
+      "pt-BR": "<p>A proposta está de acordo com os termos de uso da plataforma e foi aceita</p>"
+    },
+    "supports": 3,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 0,
+    "published_at": "2023-04-24 13:37:19 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/16",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 75,
+    "category": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Cisternas no nordeste"
+    },
+    "body": {
+      "pt-BR": "A região precisa de mais cisternas\ngid://decide/Decidim::Hashtag/5/_PPAParticipativo"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "withdrawn",
+    "reference": "lab-decidim-PROP-2023-05-75",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-08 18:12:29 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/75",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 83,
+    "category": {
+      "id": 50,
+      "name": {
+        "pt-BR": "Comunicações"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Testando a plataforma SNPS"
+    },
+    "body": {
+      "pt-BR": "Ahdusbdgshsishsyshhdiddhduwhgsjsyswhakqjjajahakakakbvehsvah\ngid://decide/Decidim::Hashtag/5/_PPAParticipativo gid://decide/Decidim::Hashtag/6/_PropostaIndividual"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-83",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-09 11:58:27 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/83",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 5,
+    "category": {
+      "id": 33,
+      "name": {
+        "pt-BR": "Esporte"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Garantia do acesso ao esporte lazer em todas faixas etárias"
+    },
+    "body": {
+      "pt-BR": "Garantir o acesso das pessoas ao esporte e lazer por meio de políticas públicas inclusivas e sustentáveis de forma a desenvolver o esporte educacional, de formação, de participaçã (lazer) e de alto rendimento em edificações e espaços esportivos adequados propiciando o exercício da cidadania, o bem estar físico, mental e social, bem com a valorização do cidadão e também do atleta, inclusive combatendo o uso de métodos e substâncias proibidas."
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-04-5",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 3,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 2,
+    "published_at": "2023-04-18 09:54:16 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/5",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 63,
+    "category": {
+      "id": 58,
+      "name": {
+        "pt-BR": "Outros"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Proposta teste pra acompanhar mensagens"
+    },
+    "body": {
+      "pt-BR": "Seguimos acompanhando as mensagens pra ver se tá tudo ok"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-63",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-08 12:01:19 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/63",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 68,
+    "category": {
+      "id": 36,
+      "name": {
+        "pt-BR": "Cultura"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Festival de cultura "
+    },
+    "body": {
+      "pt-BR": "Cultura para todo mundo"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-68",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-08 14:51:59 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/68",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 72,
+    "category": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Teste de proposta - Ricardo"
+    },
+    "body": {
+      "pt-BR": "Testando proposta na plataforma digital. Testando proposta na plataforma digital testando proposta na plataforma digitaltestando proposta na plataforma digital testando proposta na plataforma digital testando proposta na plataforma digital\ngid://decide/Decidim::Hashtag/5/_PPAParticipativo gid://decide/Decidim::Hashtag/6/_PropostaIndividual"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-72",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-08 17:37:18 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/72",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 77,
+    "category": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Tedgt gg gghh ggg ggg"
+    },
+    "body": {
+      "pt-BR": "Hdhdhd gsgshdhdh ehehdhdjd dhdhdhdhd\nHdhdhd gsgshdhdh ehehdhdjd dhdhdhdhd\ngid://decide/Decidim::Hashtag/5/_PPAParticipativo gid://decide/Decidim::Hashtag/2/_PropostaColetiva"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-77",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-08 18:46:43 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/77",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 66,
+    "category": {
+      "id": 48,
+      "name": {
+        "pt-BR": "Minas e Energia"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Teste de proposta nova"
+    },
+    "body": {
+      "pt-BR": "Pra checar se as mensagens estão em dia"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-66",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-08 14:49:06 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/66",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 80,
+    "category": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Programa do Governo 5 "
+    },
+    "body": {
+      "pt-BR": "Programa do governo de nr 6\ngid://decide/Decidim::Hashtag/5/_PPAParticipativo"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-80",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-08 21:51:32 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/80",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 82,
+    "category": {
+      "id": 25,
+      "name": {
+        "pt-BR": "Ciência, Tecnologia e Inovação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "https://lab-decide.dataprev.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 7
+    },
+    "title": {
+      "pt-BR": "Testando pela terceira vez"
+    },
+    "body": {
+      "pt-BR": "Testando pela terceira vez Testando pela terceira vez Testando pela terceira vez Testando pela terceira vez\ngid://decide/Decidim::Hashtag/5/_PPAParticipativo gid://decide/Decidim::Hashtag/2/_PropostaColetiva gid://decide/Decidim::Hashtag/6/_PropostaIndividual"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "lab-decidim-PROP-2023-05-82",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 2,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 1,
+    "published_at": "2023-05-09 11:57:32 -0300",
+    "url": "https://lab-decide.dataprev.gov.br/processes/programas/f/7/proposals/82",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  }
+]
