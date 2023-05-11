@@ -2,7 +2,6 @@
 import { useState } from 'react';
 import { Tabs, Table } from 'antd';
 import './styles.css'
-import { Button, Upload } from 'antd';
 
 function App() {
   const [proposeFile, setProposeFile] = useState(null)
@@ -38,9 +37,10 @@ function App() {
   }
 
   const formatData = (data, timeInterval) => {
-    const proposes = formatProposes(data)
+    const proposes = formatProposes(data);
     const groups = groupByDay(proposes, timeInterval)
-    return orderBySupports(groups)
+    // const total_votes = proposes.reduce((acc, current) => acc + current.supports, 0);
+    return  orderBySupports(groups)
   }
 
   const groupByDay = (posts, timeIntervals = []) => {
@@ -58,34 +58,38 @@ function App() {
 
         if (dayIndex === -1) {
           dayIndex = days.length;
-          days.push({ date: day, proposes: [], index: index });
+          days.push({ date: day, proposes: [], index: index, totalVotes: 0 });
         }
 
+        days[dayIndex].totalVotes += post.supports;
         days[dayIndex].proposes.push({ ...post, published_at: `${day} ${time}`, key: `${day}${time}-${index}` });
       }
     });
-
     return days;
   };
 
   const createTabItems = () => {
-    const plenarias = formatData(proposeFile, timeInterval);
+    const plenarias = formatData(proposeFile, []);
     return plenarias.map((plenaria) => {
       return {
         key: plenaria.date,
         label: plenaria.date,
-        children: <Table
-          columns={[
-            { dataIndex: "id", key: "id", title: "Código" },
-            { dataIndex: "title", key: "title", title: "Nome" },
-            { dataIndex: "category", key: "category", title: "Categoria" },
-            { dataIndex: "supports", key: "supports", title: "Votos" },
-            { dataIndex: "followers", key: "followers", title: "Seguidores" },
-            { dataIndex: "comments", key: "comments", title: "Comentários" },
-            { dataIndex: "published_at", key: "published_at", title: "Data de publicação" },
-          ]}
-          dataSource={plenaria.proposes}
-        />
+        children: 
+        <div>
+          <h1> Total de votos: {plenaria.totalVotes} </h1>
+          <Table
+            columns={[
+              { dataIndex: "id", key: "id", title: "Código" },
+              { dataIndex: "title", key: "title", title: "Nome" },
+              { dataIndex: "category", key: "category", title: "Categoria" },
+              { dataIndex: "supports", key: "supports", title: "Votos" },
+              { dataIndex: "followers", key: "followers", title: "Seguidores" },
+              { dataIndex: "comments", key: "comments", title: "Comentários" },
+              { dataIndex: "published_at", key: "published_at", title: "Data de publicação" },
+            ]}
+            dataSource={plenaria.proposes}
+          />
+        </div>
       }
     }
     )
@@ -98,12 +102,10 @@ function App() {
 
   const handleFileUpload = (event) => {
     const file = event.target.files[0];
-    console.log(event)
     const reader = new FileReader();
 
     reader.onload = (event) => {
       const content = event.target.result;
-      console.log(content);
       setProposeFile(JSON.parse(content));
     };
 
