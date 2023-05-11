@@ -1,11 +1,10 @@
 
 import { useState } from 'react';
-import { Tabs, Table } from 'antd';
+// import { Tab, Table, Upload } from 'react-dsgov';
 import './styles.css'
-import { Button, Upload } from 'antd';
 
 function App() {
-  const [proposeFile, setProposeFile] = useState(null)
+  const [proposeFile, setProposeFile] = useState([])
 
   const timeInterval = [
     {
@@ -61,49 +60,41 @@ function App() {
           days.push({ date: day, proposes: [], index: index });
         }
 
-        days[dayIndex].proposes.push({ ...post, published_at: `${day} ${time}`, key: `${day}${time}-${index}` });
+        days[dayIndex].proposes.push({ ...post, published_at: `${day} ${time}` });
       }
     });
 
     return days;
   };
 
-  const createTabItems = () => {
+  const getTab = () => {
     const plenarias = formatData(proposeFile, timeInterval);
-    return plenarias.map((plenaria) => {
-      return {
-        key: plenaria.date,
-        label: plenaria.date,
-        children: <Table
-          columns={[
-            { dataIndex: "id", key: "id", title: "Código" },
-            { dataIndex: "title", key: "title", title: "Nome" },
-            { dataIndex: "category", key: "category", title: "Categoria" },
-            { dataIndex: "supports", key: "supports", title: "Votos" },
-            { dataIndex: "followers", key: "followers", title: "Seguidores" },
-            { dataIndex: "comments", key: "comments", title: "Comentários" },
-            { dataIndex: "published_at", key: "published_at", title: "Data de publicação" },
-          ]}
-          dataSource={plenaria.proposes}
-        />
-      }
-    }
-    )
+    return (plenarias && plenarias.length && <Tab className="false">
+      {plenarias.map((plenaria) =>
+        <Tab.Content className="false" key={'tab_' + plenaria.index} title={plenaria.date}>
+          <Table
+            className="false"
+            headers={[
+              { field: "id", label: "Código" },
+              { field: "title", label: "Nome" },
+              { field: "category", label: "Categoria" },
+              { field: "supports", label: "Votos" },
+              { field: "followers", label: "Seguidores" },
+              { field: "comments", label: "Comentários" },
+              { field: "published_at", label: "Data de publicação" },
+            ]}
+            data={plenaria.proposes}
+          />
+        </Tab.Content>
+      )}
+    </Tab>)
   }
-
-  const getTabs = () => {
-    const plenarias = createTabItems();
-    return <Tabs items={plenarias} />
-  }
-
   const handleFileUpload = (event) => {
     const file = event.target.files[0];
-    console.log(event)
     const reader = new FileReader();
 
     reader.onload = (event) => {
       const content = event.target.result;
-      console.log(content);
       setProposeFile(JSON.parse(content));
     };
 
@@ -113,22 +104,15 @@ function App() {
   return (
     <>
       <div className='tab-container'>
-        {/* <Upload className='upload-container' accept=".json"
+        <Upload className='upload-container' accept=".json"
           label="Faça o upload dos registros aqui"
           onChange={handleFileUpload}
           uploadTimeout={() => {
             return new Promise((resolve) => {
               return setTimeout(resolve, 1000)
             })
-          }} /> */}
-
-        <form>
-          <label>
-            Upload JSON:
-            <input type="file" accept=".json" onChange={handleFileUpload} />
-          </label>
-        </form>
-        {proposeFile && getTabs()}
+          }} />
+        {getTab()}
       </div>
     </>
   )
