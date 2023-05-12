@@ -2,8 +2,9 @@
 import { useState } from 'react';
 import { Tabs, Table, Button } from 'antd';
 import './styles.css'
-import sendProposes from './mocks/proposes.json'
+import sendProposes from './mocks/proposals.json'
 import prioritizeProposes from './mocks/prioritize.json'
+import ProposalChart from './HistogramChart';
 
 function App() {
   const [proposeFile, setProposeFile] = useState(null)
@@ -44,11 +45,30 @@ function App() {
     })
   }
 
+  const generateHistogram = (days) => {
+    const histogram = {};
+
+    days.forEach(day => {
+      day.proposes.forEach(propose => {
+        const hour = parseInt(propose.published_at.split(' ')[1].split(':')[0]);
+
+        if (histogram[hour] === undefined) {
+          histogram[hour] = 1;
+        } else {
+          histogram[hour]++;
+        }
+      });
+    });
+    return Object.entries(histogram).map(([hour, count]) => ({ hour, count }));
+  }
+
   const formatData = (data, timeInterval) => {
     const proposes = formatProposes(data);
     const groups = groupByDay(proposes, timeInterval)
+    const hist = generateHistogram(groups);
+
     // const total_votes = proposes.reduce((acc, current) => acc + current.supports, 0);
-    return orderBySupports(groups)
+    return { plenarias: orderBySupports(groups), histogram: hist }
   }
 
   const groupByDay = (posts, timeIntervals = []) => {
@@ -73,11 +93,12 @@ function App() {
         days[dayIndex].proposes.push({ ...post, published_at: `${day} ${time}`, key: `${day}${time}-${index}` });
       }
     });
+
     return days;
   };
 
   const createTabItems = (proposes) => {
-    const plenarias = formatData(proposes, timeInterval);
+    const { plenarias, histogram } = formatData(proposes, timeInterval);
     return plenarias.map((plenaria) => {
       return {
         key: plenaria.date,
@@ -100,6 +121,8 @@ function App() {
               ]}
               dataSource={plenaria.proposes}
             />
+            <h1>Quantidade de propostas a cada hora:</h1>
+            <ProposalChart proposals={histogram} />
           </div>
       }
     }
@@ -136,7 +159,7 @@ function App() {
   return (
     <>
       <div className='tab-container'>
-        <div style={{ display: 'flex', flexDirection: 'row', gap: '20px' }}>
+        <div style={{ display: 'flex', flexDirection: 'row', gap: '20px', marginBottom: '20px' }}>
           <Button type={buttonState ? "primary" : "default"} onClick={() => handleSendPropose()}>Escolher programas</Button>
           <Button type={!buttonState ? "primary" : "default"} onClick={() => handleProposeOption()}>Fazer propostas ao governo</Button>
         </div>
