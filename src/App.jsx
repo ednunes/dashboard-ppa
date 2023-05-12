@@ -8,6 +8,7 @@ import prioritizeProposes from './mocks/prioritize.json'
 function App() {
   const [proposeFile, setProposeFile] = useState(null)
   const [proposesOption, setProposeOption] = useState(sendProposes);
+  const [buttonState, setButtonState] = useState(false)
 
   const timeInterval = [
     {
@@ -76,16 +77,16 @@ function App() {
   };
 
   const createTabItems = (proposes) => {
-    const plenarias = formatData(proposes, timeInterval   );
+    const plenarias = formatData(proposes, timeInterval);
     return plenarias.map((plenaria) => {
       return {
         key: plenaria.date,
         label: plenaria.date,
         children:
           <div>
-            <div style={{display: 'flex', gap: '20px'}}>
-            <h1>Total de votos: {plenaria.totalVotes} </h1>
-            <h1>Total de propostas: {plenaria.proposes.length} </h1>
+            <div style={{ display: 'flex', gap: '20px' }}>
+              <h1>Total de votos: {plenaria.totalVotes} </h1>
+              <h1>Total de propostas: {plenaria.proposes.length} </h1>
             </div>
             <Table
               columns={[
@@ -122,11 +123,23 @@ function App() {
     reader.readAsText(file);
   };
 
+  const handleSendPropose = () => {
+    setButtonState(!buttonState)
+    setProposeOption(prioritizeProposes)
+  }
+
+  const handleProposeOption = () => {
+    setButtonState(!buttonState)
+    setProposeOption(sendProposes)
+  }
+
   return (
     <>
-      <Button onClick={() => setProposeOption(prioritizeProposes)}>Escolher programas</Button>
-      <Button onClick={() => setProposeOption(sendProposes)}>Fazer propostas ao governo</Button>
       <div className='tab-container'>
+        <div style={{ display: 'flex', flexDirection: 'row', gap: '20px' }}>
+          <Button type={buttonState ? "primary" : "default"} onClick={() => handleSendPropose()}>Escolher programas</Button>
+          <Button type={!buttonState ? "primary" : "default"} onClick={() => handleProposeOption()}>Fazer propostas ao governo</Button>
+        </div>
         {/* <Upload className='upload-container' accept=".json"
           label="Faça o upload dos registros aqui"
           onChange={handleFileUpload}
