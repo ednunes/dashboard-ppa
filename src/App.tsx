@@ -1,10 +1,10 @@
 
-import { useState } from 'react';
-// import { Tab, Table, Upload } from 'react-dsgov';
 import './styles.css'
+import final from './mocks/final.json'
+import { useState } from 'react';
 
 function App() {
-  const [proposeFile, setProposeFile] = useState([])
+  const [proposeFile, setProposeFile] = useState([]);
 
   const timeInterval = [
     {

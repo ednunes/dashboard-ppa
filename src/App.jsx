@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import { Tabs, Table } from 'antd';
 import './styles.css'
+import sendProposes from './mocks/proposes_250.json'
 
 function App() {
   const [proposeFile, setProposeFile] = useState(null)
@@ -40,7 +41,7 @@ function App() {
     const proposes = formatProposes(data);
     const groups = groupByDay(proposes, timeInterval)
     // const total_votes = proposes.reduce((acc, current) => acc + current.supports, 0);
-    return  orderBySupports(groups)
+    return orderBySupports(groups)
   }
 
   const groupByDay = (posts, timeIntervals = []) => {
@@ -68,35 +69,35 @@ function App() {
     return days;
   };
 
-  const createTabItems = () => {
-    const plenarias = formatData(proposeFile, []);
+  const createTabItems = (proposes) => {
+    const plenarias = formatData(proposes, []);
     return plenarias.map((plenaria) => {
       return {
         key: plenaria.date,
         label: plenaria.date,
-        children: 
-        <div>
-          <h1> Total de votos: {plenaria.totalVotes} </h1>
-          <Table
-            columns={[
-              { dataIndex: "id", key: "id", title: "Código" },
-              { dataIndex: "title", key: "title", title: "Nome" },
-              { dataIndex: "category", key: "category", title: "Categoria" },
-              { dataIndex: "supports", key: "supports", title: "Votos" },
-              { dataIndex: "followers", key: "followers", title: "Seguidores" },
-              { dataIndex: "comments", key: "comments", title: "Comentários" },
-              { dataIndex: "published_at", key: "published_at", title: "Data de publicação" },
-            ]}
-            dataSource={plenaria.proposes}
-          />
-        </div>
+        children:
+          <div>
+            <h1> Total de votos: {plenaria.totalVotes} </h1>
+            <Table
+              columns={[
+                { dataIndex: "id", key: "id", title: "Código" },
+                { dataIndex: "title", key: "title", title: "Nome" },
+                { dataIndex: "category", key: "category", title: "Categoria" },
+                { dataIndex: "supports", key: "supports", title: "Votos" },
+                { dataIndex: "followers", key: "followers", title: "Seguidores" },
+                { dataIndex: "comments", key: "comments", title: "Comentários" },
+                { dataIndex: "published_at", key: "published_at", title: "Data de publicação" },
+              ]}
+              dataSource={plenaria.proposes}
+            />
+          </div>
       }
     }
     )
   }
 
-  const getTabs = () => {
-    const plenarias = createTabItems();
+  const getTabs = (proposeFile) => {
+    const plenarias = createTabItems(proposeFile);
     return <Tabs items={plenarias} />
   }
 
@@ -123,14 +124,13 @@ function App() {
               return setTimeout(resolve, 1000)
             })
           }} /> */}
-
-        <form>
+        {/* <form>
           <label>
             Upload JSON:
             <input type="file" accept=".json" onChange={handleFileUpload} />
           </label>
-        </form>
-        {proposeFile && getTabs()}
+        </form> */}
+        {sendProposes && getTabs(sendProposes)}
       </div>
     </>
   )
