@@ -1,20 +1,26 @@
 
 import { useState } from 'react';
-import { Tabs, Table } from 'antd';
+import { Tabs, Table, Button } from 'antd';
 import './styles.css'
-import sendProposes from './mocks/proposes_250.json'
+import sendProposes from './mocks/proposes.json'
+import prioritizeProposes from './mocks/prioritize.json'
 
 function App() {
   const [proposeFile, setProposeFile] = useState(null)
+  const [proposesOption, setProposeOption] = useState(sendProposes);
 
   const timeInterval = [
     {
-      initial: "2023-04-18 09:00:00",
-      final: "2023-04-18 14:00:00"
+      initial: "2023-05-09 23:50:00",
+      final: "2023-05-10 23:50:00"
     },
     {
-      initial: "2023-05-02 11:00:11",
-      final: "2023-05-03 01:00:36"
+      initial: "2023-05-10 23:51:00",
+      final: "2023-05-11 23:50:00"
+    },
+    {
+      initial: "2023-05-11 23:51:00",
+      final: "2023-05-12 23:50:00"
     },
   ];
 
@@ -70,14 +76,17 @@ function App() {
   };
 
   const createTabItems = (proposes) => {
-    const plenarias = formatData(proposes, []);
+    const plenarias = formatData(proposes, timeInterval   );
     return plenarias.map((plenaria) => {
       return {
         key: plenaria.date,
         label: plenaria.date,
         children:
           <div>
-            <h1> Total de votos: {plenaria.totalVotes} </h1>
+            <div style={{display: 'flex', gap: '20px'}}>
+            <h1>Total de votos: {plenaria.totalVotes} </h1>
+            <h1>Total de propostas: {plenaria.proposes.length} </h1>
+            </div>
             <Table
               columns={[
                 { dataIndex: "id", key: "id", title: "Código" },
@@ -115,6 +124,8 @@ function App() {
 
   return (
     <>
+      <Button onClick={() => setProposeOption(prioritizeProposes)}>Escolher programas</Button>
+      <Button onClick={() => setProposeOption(sendProposes)}>Fazer propostas ao governo</Button>
       <div className='tab-container'>
         {/* <Upload className='upload-container' accept=".json"
           label="Faça o upload dos registros aqui"
@@ -130,7 +141,7 @@ function App() {
             <input type="file" accept=".json" onChange={handleFileUpload} />
           </label>
         </form> */}
-        {sendProposes && getTabs(sendProposes)}
+        {proposesOption && getTabs(proposesOption)}
       </div>
     </>
   )

@@ -1,0 +1,2748 @@
+[
+  {
+    "id": 1,
+    "category": {
+      "id": 30,
+      "name": {
+        "pt-BR": "Turismo"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Turismo: esse é o Destino"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo:</strong> Posicionar o turismo como vetor de desenvolvimento sustentável e aumentar a competitividade dos destinos e produtos turísticos brasileiros, democratizando o acesso à atividade turística aos cidadãos brasileiros.<br><br><strong>Órgão Responsável:</strong> Ministério do Turismo<br><br><strong>Página Oficial: </strong>https://www.gov.br/turismo/pt-br/</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-1",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 1,
+    "published_at": "2023-05-10 10:03:41 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/1",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 25,
+    "category": {
+      "id": 18,
+      "name": {
+        "pt-BR": "Mulheres"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Mulheres: Viver sem Violência"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo</strong>: Enfrentar todas as formas de violência contra as mulheres, baseadas em gênero, classe, raça e etnia, em toda a sua diversidade, nas esferas públicas e privadas, por meio da formulação, articulação, monitoramento, coordenação, governança interfederativa e avaliação de políticas transversais, intersetoriais, visando o pleno exercício da cidadania, livres de violências e ameaças.<br><br><strong>Órgão Responsável</strong>: Ministério das Mulheres<br><strong><br>Página Oficial:</strong> https://www.gov.br/mulheres/pt-br/</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-25",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 16:57:59 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/25",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 18,
+    "category": {
+      "id": 2,
+      "name": {
+        "pt-BR": "Assistência Social, Família e Combate à Fome"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Segurança Alimentar e Nutricional e Combate à Fome"
+    },
+    "body": {
+      "pt-BR": "<p>Promover a produção, a oferta, o acesso e o consumo de água e alimentos adequados e saudáveis, com base em sistemas alimentares sustentáveis, saudáveis e resilientes, priorizando os grupos populacionais vulnerabilizados e fortalecendo o Sistema de Segurança Alimentar&nbsp;e&nbsp;Nutricional.</p><p><strong>Órgão Responsável</strong>: Ministério do Desenvolvimento e Assistência Social, Família e Combate à fome</p><p><strong>Página Oficial</strong>: http://www.gov.br/cidadania/pt-br/</p><p>Foto: Divulgação/Governo Federal</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-18",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 210,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 16,
+    "published_at": "2023-05-10 16:55:39 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/18",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 8,
+    "category": {
+      "id": 31,
+      "name": {
+        "pt-BR": "Desenvolvimento Agrário e Agricultura Familiar"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Agricultura Familiar e Agroecologia"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo: </strong>Fortalecer a agricultura familiar em sua diversidade e a agroecologia, promovendo a inclusão socioeconômica, com fomento à produção sustentável e à geração de renda, contribuindo para a promoção da segurança alimentar e nutricional e da vida digna, com redução das desigualdades e mitigação das mudanças climáticas.<br><br><strong>Órgão Responsável: </strong>Ministério do Desenvolvimento Agrário<br><strong><br>Página Oficial:</strong> <a href=\"https://www.gov.br/agricultura/pt-br/assuntos/mda/agricultura-familiar-1\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.gov.br/agricultura/pt-br/assuntos/mda/agricultura-familiar-1</a></p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-8",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 16:22:51 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/8",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 29,
+    "category": {
+      "id": 24,
+      "name": {
+        "pt-BR": "Povos Indígenas"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Direitos Pluriétnicos Territoriais, Culturais e Sociais cidadania e o bem viver dos Povos Indígenas"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo</strong>: Reconhecer e efetivar os direitos pluriétnico-culturais e sociais dos Povos Indígenas, assegurando a preservação e a valorização dos seus saberes, culturas, tradições, línguas e memórias, bem como o pleno exercício da cidadania e o acesso culturalmente adequado às políticas e serviços públicos de garantia dos direitos sociais, respeitando sua autodeterminação, sua pluralidade étnico-cultural e seu protagonismo na gestão das políticas públicas que lhes são afetas.</p><p><strong>Órgão Responsável</strong>: Ministério dos Povos Indígenas</p><p><strong>Página Oficial</strong>: https://www.gov.br/pt-br/orgaos/ministerio-dos-povos-indigenas</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-29",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 16:59:49 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/29",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 9,
+    "category": {
+      "id": 1,
+      "name": {
+        "pt-BR": "Agricultura e Pecuária"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Agropecuária Sustentável"
+    },
+    "body": {
+      "pt-BR": "<p>Objetivo: Contribuir para o desenvolvimento do setor agropecuário, com sustentabilidade ambiental, econômica e social, por meio do fomento e da intensificação da produção; da geração, compartilhamento e aplicação de conhecimento técnico-científico; e da regulamentação, certificação, auditoria e fiscalização agropecuária.</p><p>Órgão Responsável: Ministério da Agricultura e Pecuária</p><p>Página Oficial: http://www.gov.br/agricultura/pt-br/</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-9",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 2,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 16:35:47 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/9",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 16,
+    "category": {
+      "id": 15,
+      "name": {
+        "pt-BR": "Justiça e Segurança Pública"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Pronasci: Segurança Pública com Cidadania"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo:</strong> Fortalecer a prevenção e o enfrentamento à violência e a criminalidade, promovendo a segurança pública cidadã, humanizada e integrada entre os entes federados e em articulação com a sociedade, com atenção especial à proteção de grupos sociais vulneráveis, de mulheres e pessoas negras.<br><br><strong>Órgão Responsável</strong>: Ministério da Justiça e Segurança Publica<br><br><strong>Página Oficial:</strong> http://www.gov.br/mj/pt-br/</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-16",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 16:54:47 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/16",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 15,
+    "category": {
+      "id": 28,
+      "name": {
+        "pt-BR": "Trabalho e Emprego"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Trabalho Digno, Emprego e Renda"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo: </strong>Assegurar o trabalho digno, o acesso ao emprego e renda, proteção social e remuneração justa, garantindo segurança e saúde no trabalho, diálogo social, inclusão, acessibilidade e equidade no mundo do trabalho.<br><strong><br>Órgão Responsável: </strong>Ministério do Trabalho e Emprego<br><br><strong>Página Oficial:</strong> https://www.gov.br/trabalho-e-previdencia/pt-br/</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-15",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 16:54:19 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/15",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 17,
+    "category": {
+      "id": 11,
+      "name": {
+        "pt-BR": "Igualdade Racial"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Promoção da Igualdade etnicorracial, combate e superação do racismo"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo:</strong> Promover a igualdade racial e combater o racismo, por meio da formulação, execução, articulação, monitoramento, governança interfederativa e avaliação de políticas públicas transversais, intersetoriais e afirmativas de reconhecimento e de acesso a bens e direitos, com vistas a assegurar o bem-viver, instituições antirracistas e uma sociedade justa, equitativa e democrática.<br><br><strong>Órgão Responsável:</strong> Ministério da Igualdade Racial<br><br><strong>Página Oficial: </strong>https://www.gov.br/igualdaderacial/pt-br/</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-17",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 16:55:18 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/17",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 30,
+    "category": {
+      "id": 8,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Mais Universidade: Educação Superior"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo: </strong>Ampliar o acesso, a permanência e a formalçao de qualidade na graduação e na pós-graduação, com vistas à superação das desigualdades e a valoraização da diversidade, na perspectiva da equidade, da inclusão e da sustentabilidade, fortalecendo a ciência, a tecnologia, a inovação nas atividades de ensino, pesquisa e extensão e aperfeiçoando a avaliação, a supervisão e a regulação de forma participativa para o desenvolvimento do país.<br><br><strong>Órgão Responsável: </strong>Ministério da Educação<br><strong><br>Página Oficial:</strong> http://www.gov.br/mec/pt-br/</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-30",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 17:00:07 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/30",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 34,
+    "category": {
+      "id": 16,
+      "name": {
+        "pt-BR": "Meio Ambiente e Mudança do Clima"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Enfrentamento da Emergência Climática"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo</strong>: Fortalecer a ação nacional frente às alterações do clima, enfrentando os desafios da redução de impactos climáticos e adaptação; e promovendo a resiliência aos eventos climáticos extremos, viabilizando de forma transversal as oportunidades da transição para a economia de baixo carbono.</p><p><strong>Órgão Responsável</strong>: Ministério do Meio Ambiente</p><p><strong>Página Oficial</strong>: https://www.gov.br/mma/pt-br/</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-34",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 0,
+    "followers": 0,
+    "published_at": "2023-05-10 17:02:38 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/34",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 14,
+    "category": {
+      "id": 17,
+      "name": {
+        "pt-BR": "Minas e Energia"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Transição Energética"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo: </strong>Coordenar, planejar e promover a redução do conteúdo de carbono da matriz energética brasileira, promovendo a manutenção da alta participação da oferta de energia limpas e renováveis e o aumento da eficiência energética, tanto na oferta quanto na logística de distribuição e no uso final de energia.<br><br><strong>Órgão Responsável: </strong>Ministério de Minas e Energia<br><br><strong>Página Oficial:</strong> http://www.gov.br/mme/pt-br/</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-14",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 16:53:23 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/14",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 35,
+    "category": {
+      "id": 16,
+      "name": {
+        "pt-BR": "Meio Ambiente e Mudança do Clima"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Enfrentamento da Emergência Climática"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo</strong>: Fortalecer a ação nacional frente às alterações do clima, enfrentando os desafios da redução de impactos climáticos e adaptação; e promovendo a resiliência aos eventos climáticos extremos, viabilizando de forma transversal as oportunidades da transição para a economia de baixo carbono.</p><p><strong>Órgão Responsável</strong>: Ministério do Meio Ambiente</p><p><strong>Página Oficial</strong>: https://www.gov.br/mma/pt-br/</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-35",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 2,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 17:02:40 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/35",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 13,
+    "category": {
+      "id": 2,
+      "name": {
+        "pt-BR": "Assistência Social, Família e Combate à Fome"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Bolsa Família: Proteção Social por Meio da Transferência de Renda e Articulação das Políticas Públicas"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo</strong>: Reduzir a pobreza por meio da transferência de renda e do fortalecimento de acessos a serviços de educação, saúde, assistência social e inclusão socioeconômica.</p><p><strong>Órgão Responsável</strong>: Ministério do Desenvolvimento e Assistência Social, Família e Combate à fome</p><p><strong>Página Oficial</strong>: http://www.gov.br/cidadania/pt-br/</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-13",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 16:43:27 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/13",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 19,
+    "category": {
+      "id": 7,
+      "name": {
+        "pt-BR": "Direitos Humanos e Cidadania"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Promoção da Cidadania, Proteção, Defesa dos Direitos Humanos e Reparação a Violações"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo:</strong> Assegurar a cidadania de segmentos vulnerabilizados ou submetidos a violências diversas por meio de políticas de reparação por graves violações, de educação, de promoção e de defesa de direitos humanos.<br><br><strong>Órgão Responsável:</strong> Ministério dos Direitos Humanos e Cidadania<br><br><strong>Página Oficial:</strong> http://www.gov.br/mdh/pt-br/</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-19",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 16:55:42 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/19",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 24,
+    "category": {
+      "id": 8,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Creche e ensino em tempo Integral: Educação Básica"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo</strong>: Elevar a qualidade e promover a equidade em todas as etapas e modalidades da Educação Básica, em regime de colaboração com os sistemas de ensino, valorizando os profissionais da educação básica, promovendo o acesso, a permanência, a conclusão de suas etapas, a trajetória regular e a aprendizagem em níveis adequados, com vistas à superação das desigualdades e a valorização da diversidade, na perspectiva do desenvolvimento integral, da inclusão, da sustentabilidade e da justiça social.</p><p><strong>Órgão Responsável</strong>: Ministério da Educação</p><p><strong>Página Oficial</strong>: http://www.gov.br/mec/pt-br/</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-24",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 1,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 16:57:36 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/24",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 28,
+    "category": {
+      "id": 19,
+      "name": {
+        "pt-BR": "Cidades"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Moradia Digna   "
+    },
+    "body": {
+      "pt-BR": "<p>Promover moradia digna às famílias residentes em áreas urbanas e rurais com a garantia do direito à cidade, associado ao desenvolvimento urbano e econômico, à geração de trabalho e renda e à elevação dos padrões de habitabilidade e de qualidade de vida da população.<br><br><strong>Órgão Responsável: </strong>Ministério das Cidades<br><br><strong>Página Oficial: </strong>https://www.gov.br/cidades/pt-br/</p><p>Foto: Divulgação/Ministério das Cidades</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-28",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 16:59:41 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/28",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 58,
+    "category": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Promoção da Cidadania, Proteção, Defesa de Direitos Humanos e Reparação a Violações"
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo:</strong> Assegurar a cidadania de segmentos vulnerabilizados ou submetidos a violências diversas por meio de políticas de reparação por graves violações, de educação, de promoção e de defesa de direitos humanos.<br><br><strong>Órgão Responsável:</strong> Ministério dos Direitos Humanos e Cidadania<br><br><strong>Página Oficial:</strong> <a href=\"http://www.gov.br/mdh/pt-br/\" rel=\"noopener noreferrer\" target=\"_blank\">http://www.gov.br/mdh/pt-br/</a></p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-58",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 0,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 23:15:33 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/58",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 48,
+    "category": {
+      "id": 24,
+      "name": {
+        "pt-BR": "Povos Indígenas"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Direitos Pluriétnicos-Culturais e Sociais para a cidadania e o bem viver dos Povos Indígenas"
+    },
+    "body": {
+      "pt-BR": "<p>Reconhecer e efetivar os direitos pluriétnico-culturais e sociais dos Povos Indígenas, assegurando a preservação e a valorização dos seus saberes, culturas, tradições, línguas e memórias, bem como o pleno exercício da cidadania e o acesso culturalmente adequado às políticas e serviços públicos de garantia dos direitos sociais, respeitando sua autodeterminação, sua pluralidade étnico-cultural e seu protagonismo na gestão das políticas públicas que lhes são afetas.<br><strong><br>Órgão Responsável:</strong> Ministério dos Povos Indígenas<br><br><strong>Página Oficial:</strong> https://www.gov.br/povosindigenas/pt-br/</p><p>Foto: Divulgação/Governo Federal</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-48",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 36,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 5,
+    "published_at": "2023-05-10 23:10:24 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/48",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 53,
+    "category": {
+      "id": 18,
+      "name": {
+        "pt-BR": "Mulheres"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Mulher: Viver sem Violência"
+    },
+    "body": {
+      "pt-BR": "<p>Enfrentar todas as formas de violência contra as mulheres, baseadas em gênero, classe, raça e etnia, em toda a sua diversidade, nas esferas públicas e privadas, por meio da formulação, articulação, monitoramento, coordenação, governança interfederativa e avaliação de políticas transversais, intersetoriais, visando o pleno exercício da cidadania, livres de violências e ameaças.<br><br><strong>Órgão Responsável:</strong> Ministério das Mulheres<br><strong><br>Página Oficial: </strong>https://www.gov.br/mulheres/pt-br/</p><p>Foto:Leo Rizzo/Secretaria de Políticas para as Mulheres</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-53",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 54,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 6,
+    "published_at": "2023-05-10 23:13:00 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/53",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 43,
+    "category": {
+      "id": 31,
+      "name": {
+        "pt-BR": "Desenvolvimento Agrário e Agricultura Familiar"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Agricultura Familiar e Agroecologia"
+    },
+    "body": {
+      "pt-BR": "<p>Fortalecer a agricultura familiar em sua diversidade e a agroecologia, promovendo a inclusão socioeconômica, com fomento à produção sustentável e à geração de renda, contribuindo para a promoção da segurança alimentar e nutricional e da vida digna, com redução das desigualdades e mitigação das mudanças climáticas.<br><br><strong>Órgão Responsável: </strong>Ministério do Desenvolvimento Agrário e Agricultura Familiar<br><strong><br>Página Oficial</strong>: https://www.gov.br/agricultura/pt-br/assuntos/mda/agricultura-familiar-1</p><p>Foto: Divulgação/Ministério do Desenvolvimento Agrário e Agricultura Familiar<br> </p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-43",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 79,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 3,
+    "published_at": "2023-05-10 23:05:21 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/43",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 55,
+    "category": {
+      "id": 11,
+      "name": {
+        "pt-BR": "Igualdade Racial"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Promoção da Igualdade Étnico-Racial, Combate e Superação do Racismo"
+    },
+    "body": {
+      "pt-BR": "<p>Promover a igualdade racial e combater o racismo, por meio da formulação, execução, articulação, monitoramento, governança interfederativa e avaliação de políticas públicas transversais, intersetoriais e afirmativas de reconhecimento e de acesso a bens e direitos, com vistas a assegurar o bem-viver, instituições antirracistas e uma sociedade justa, equitativa e democrática. <br><br><strong>Órgão Responsável:</strong> Ministério da Igualdade Racial <br><br><strong>Página Oficial</strong>: https://www.gov.br/igualdaderacial/pt-br/</p><p>Foto: Divulgação/Freepik</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-55",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 62,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 2,
+    "published_at": "2023-05-10 23:13:53 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/55",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 12,
+    "category": {
+      "id": 5,
+      "name": {
+        "pt-BR": "Comunicações"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Comunicações para Inclusão e Transformação"
+    },
+    "body": {
+      "pt-BR": "<p>Assegurar serviços de comunicações e conectividade, pela oferta inclusiva dos meios de acesso, com o desenvolvimento das habilidades digitais, dando ênfase aos grupos vulnerabilizados</p><p><strong>Órgão Responsável</strong>: Ministério das Comunicações</p><p><strong>Página Oficial</strong>: http://www.gov.br/mcom/pt-br/</p><p>Foto: Pablo Le Roy/Ministério das Comunicações</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-12",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 45,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 5,
+    "published_at": "2023-05-10 16:44:34 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/12",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 21,
+    "category": {
+      "id": 22,
+      "name": {
+        "pt-BR": "Pesca e Aquicultura"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Pesca e Aquicultura Sustentáveis"
+    },
+    "body": {
+      "pt-BR": "<p>Desenvolver a pesca e aquicultura de forma sustentável, por meio do fortalecimento das cadeias produtivas e considerando as dimensões ecológica, econômica, social e cultural dessas atividades, para gerar trabalho renda, contribuir para a segurança alimentar e melhorar a produtividade e a competitividade do setor.<br><br><strong>Órgão Responsável: </strong>Ministério da Pesca e Aquicultura<br><br><strong>Página Oficial:</strong> https://www.gov.br/mpa/pt-br</p><p>Foto: Divulgação/Freepik</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-21",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 11,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 1,
+    "published_at": "2023-05-10 16:56:37 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/21",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 57,
+    "category": {
+      "id": 7,
+      "name": {
+        "pt-BR": "Direitos Humanos e Cidadania"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Promoção da Cidadania, Proteção, Defesa de Direitos Humanos e Reparação a Violações"
+    },
+    "body": {
+      "pt-BR": "<p>Assegurar a cidadania de segmentos vulnerabilizados ou submetidos a violências diversas por meio de políticas de reparação por graves violações, de educação, de promoção e de defesa de direitos humanos. <br><br><strong>Órgão Responsável:</strong> Ministério dos Direitos Humanos e Cidadania <br><br><strong>Página Oficial:</strong> http://www.gov.br/mdh/pt-br/</p><p>Foto: Divulgação/Freepik</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-57",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 35,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 4,
+    "published_at": "2023-05-10 23:14:54 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/57",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 61,
+    "category": {
+      "id": 17,
+      "name": {
+        "pt-BR": "Minas e Energia"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Transição Energética"
+    },
+    "body": {
+      "pt-BR": "<p>Coordenar, planejar e promover a redução do conteúdo de carbono da matriz energética brasileira, promovendo a manutenção da alta participação da oferta de energia limpas e renováveis e o aumento da eficiência energética, tanto na oferta quanto na logística de distribuição e no uso final de energia.<br><br><strong>Órgão Responsável: </strong>Ministério de Minas e Energia<br><br><strong>Página Oficial:</strong> http://www.gov.br/mme/pt-br/</p><p>Foto: Divulgação/Governo Federal</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-61",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 50,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 0,
+    "published_at": "2023-05-10 23:21:17 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/61",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 63,
+    "category": {
+      "id": 19,
+      "name": {
+        "pt-BR": "Cidades"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Moradia Digna  "
+    },
+    "body": {
+      "pt-BR": "<p><strong>Objetivo:</strong> Promover moradia digna às famílias residentes em áreas urbanas e rurais com a garantia do direito à cidade, associado ao desenvolvimento urbano e econômico, à geração de trabalho e renda e à elevação dos padrões de habitabilidade e de qualidade de vida da população.</p><p><strong>Órgão Responsável</strong>: Ministério das Cidades</p><p><strong>Página Oficial</strong>: https://www.gov.br/cidades/pt-br/ </p><p><strong>Foto</strong>: Divulgação/Ministério das Cidades</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-63",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 89,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 9,
+    "published_at": "2023-05-11 08:47:05 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/63",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 51,
+    "category": {
+      "id": 28,
+      "name": {
+        "pt-BR": "Trabalho e Emprego"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Promoção do Trabalho Digno, Emprego e Renda"
+    },
+    "body": {
+      "pt-BR": "<p>Assegurar o trabalho digno, o acesso ao emprego e renda, proteção social e remuneração justa, garantindo segurança e saúde no trabalho, diálogo social, inclusão, acessibilidade e equidade no mundo do trabalho. <br><br><strong>Órgão Responsável: </strong>Ministério do Trabalho e Emprego <br><br>Página Oficial: https://www.gov.br/trabalho-e-previdencia/pt-br/</p><p>Foto: Divulgação/Freepik</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-51",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 56,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 2,
+    "published_at": "2023-05-10 23:11:23 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/51",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 20,
+    "category": {
+      "id": 10,
+      "name": {
+        "pt-BR": "Fazenda"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Política Econômica para o Crescimento e Desenvolvimento Socioeconômico Sustentável e Inclusivo"
+    },
+    "body": {
+      "pt-BR": "<p>Atuar para o crescimento econômico e desenvolvimento, com sustentabilidade fiscal, responsabilidade social e ambiental, para um sistema tributário justo e eficiente, ampliando a capacidade estatal de atender à sociedade e proteger os mais vulneráveis.<br><br><strong>Órgão Responsável:</strong> Ministério da Fazenda<br><strong><br>Página Oficial:</strong> http://www.gov.br/fazenda/pt-br/</p><p>Foto: Divulgação/Freepik</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-20",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 80,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 5,
+    "published_at": "2023-05-10 16:56:07 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/20",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 27,
+    "category": {
+      "id": 19,
+      "name": {
+        "pt-BR": "Cidades"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Mobilidade Urbana"
+    },
+    "body": {
+      "pt-BR": "<p>Tornar sustentáveis, acessíveis e seguros os deslocamentos de pessoas e cargas nas cidades, priorizando o transporte não motorizado e o transporte público coletivo.<br><br><strong>Órgão Responsável:</strong> Ministério das Cidades<br><br><strong>Página Oficial:</strong> https://www.gov.br/cidades/pt-br/</p><p>Foto: Rovena Rosa/Agência Brasil</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-27",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 88,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 9,
+    "published_at": "2023-05-10 16:59:09 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/27",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 46,
+    "category": {
+      "id": 30,
+      "name": {
+        "pt-BR": "Turismo"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Turismo, esse é o Destino"
+    },
+    "body": {
+      "pt-BR": "<p>Posicionar o turismo como vetor de desenvolvimento sustentável e aumentar a competitividade dos destinos e produtos turísticos brasileiros, democratizando o acesso à atividade turística aos cidadãos brasileiros. <br><br><strong>Órgão Responsável: </strong>Ministério do Turismo <br><br><strong>Página Oficial:</strong> https://www.gov.br/turismo/pt-br/</p><p>Foto: Divulgação/Freepik</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-46",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 22,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 2,
+    "published_at": "2023-05-10 23:08:50 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/46",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 50,
+    "category": {
+      "id": 16,
+      "name": {
+        "pt-BR": "Meio Ambiente e Mudança do Clima"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Enfrentamento da Emergência Climática"
+    },
+    "body": {
+      "pt-BR": "<p>Fortalecer a ação nacional frente às alterações do clima, enfrentando os desafios da redução de impactos climáticos e adaptação; e promovendo a resiliência aos eventos climáticos extremos, viabilizando de forma transversal as oportunidades da transição para a economia de baixo carbono.<br><strong><br>Órgão Responsável</strong>: Ministério do Meio Ambiente<br><br><strong>Página Oficial</strong>: https://www.gov.br/mma/pt-br</p><p> Foto: Vinicius Mendonça/IBAMA</p><p> </p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-50",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 70,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 6,
+    "published_at": "2023-05-10 23:11:10 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/50",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 45,
+    "category": {
+      "id": 2,
+      "name": {
+        "pt-BR": "Assistência Social, Família e Combate à Fome"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Bolsa Família: Proteção Social por meio da Transferência de Renda e da Articulação de Políticas Públicas"
+    },
+    "body": {
+      "pt-BR": "<p>Reduzir a pobreza por meio da transferência de renda e do fortalecimento de acessos a serviços de educação, saúde, assistência social e inclusão socioeconômica.<br><br><strong>Órgão Responsável:</strong> Ministério do Desenvolvimento e Assistência Social, Família e Combate à fome<br><strong><br>Página Oficial:</strong> http://www.gov.br/cidadania/pt-br/</p><p>Foto: Divulgação/Governo Federal</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-45",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 42,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 3,
+    "published_at": "2023-05-10 23:07:48 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/45",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 31,
+    "category": {
+      "id": 43,
+      "name": {
+        "pt-BR": "Secretaria Geral"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Juventude: Direitos, participação e bem viver"
+    },
+    "body": {
+      "pt-BR": "<p>Assegurar o exercício de direitos pelos jovens mediante a implementação e execução da Política Nacional de Juventude e da ampliação de acesso a serviços e equipamentos públicos, valorizando os jovens sujeitos de direito, em especial os segmentos mais vulnerabilizados da população.<br><br><strong>Órgão Responsável:</strong> Presidência da República<br><br><strong>Página Oficial: </strong>https://www.gov.br/secretariageral/pt-br/</p><p>Foto: Divulgação/Freepik</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-31",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 232,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 22,
+    "published_at": "2023-05-10 17:00:32 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/31",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 52,
+    "category": {
+      "id": 8,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Educação Superior: qualidade, democracia e sustentabilidade"
+    },
+    "body": {
+      "pt-BR": "<p>Ampliar o acesso, a permanência e a formação de qualidade na graduação e na pós-graduação, com vistas à superação das desigualdades e a valorização da diversidade, na perspectiva da equidade, da inclusão e da sustentabilidade, fortalecendo a ciência, a tecnologia, a inovação nas atividades de ensino, pesquisa e extensão e aperfeiçoando a avaliação, a supervisão e a regulação de forma participativa para o desenvolvimento do país.<br><br><strong>Órgão Responsável:</strong> Ministério da Educação<br><br><strong>Página Oficial</strong>: <a href=\"http://www.gov.br/mec/pt-br/\" rel=\"noopener noreferrer\" target=\"_blank\">http://www.gov.br/mec/pt-br/</a></p><p>Foto: Divulgação/Governo Federal</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-52",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 77,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 5,
+    "published_at": "2023-05-10 23:12:15 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/52",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 44,
+    "category": {
+      "id": 1,
+      "name": {
+        "pt-BR": "Agricultura e Pecuária"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Produção Agropecuária Sustentável"
+    },
+    "body": {
+      "pt-BR": "<p>Contribuir para o desenvolvimento do setor agropecuário, com sustentabilidade ambiental, econômica e social, por meio do fomento e da intensificação da produção; da geração, compartilhamento e aplicação de conhecimento técnico-científico; e da regulamentação, certificação, auditoria e fiscalização agropecuária.<br><br><strong>Órgão Responsável:</strong> Ministério da Agricultura e Pecuária<br><br><strong>Página Oficial:</strong> http://www.gov.br/agricultura/pt-br/</p><p>Foto: Divulgação/Ministério da Agricultura e Pecuária </p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-44",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 20,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 2,
+    "published_at": "2023-05-10 23:06:20 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/44",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 47,
+    "category": {
+      "id": 8,
+      "name": {
+        "pt-BR": "Educação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Educação Básica Democrática, com qualidade e equidade"
+    },
+    "body": {
+      "pt-BR": "<p>Elevar a qualidade e promover a equidade em todas as etapas e modalidades da Educação Básica, em regime de colaboração com os sistemas de ensino, valorizando os profissionais da educação básica, promovendo o acesso, a permanência, a conclusão de suas etapas, a trajetória regular e a aprendizagem em níveis adequados, com vistas à superação das desigualdades e a valorização da diversidade, na perspectiva do desenvolvimento integral, da inclusão, da sustentabilidade e da justiça social.<br><strong><br>Órgão Responsável:</strong> Ministério da Educação<br><br><strong>Página Oficial:</strong> http://www.gov.br/mec/pt-br/</p><p>Foto: Divulgação/Ministério da Educação</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-47",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 92,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 8,
+    "published_at": "2023-05-10 23:09:05 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/47",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 10,
+    "category": {
+      "id": 27,
+      "name": {
+        "pt-BR": "Saúde"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Atenção Primária à Saúde"
+    },
+    "body": {
+      "pt-BR": "<p>Fortalecer a Atenção Primária à Saúde, ampliando a cobertura da Estratégia de Saúde da Família e da Saúde Bucal, com vistas à universalização do acesso, à abrangência do cuidado integral, à promoção da saúde, à prevenção de agravos e à redução de desigualdades de raça/etnia, de gênero, regionais e sociais</p><p><strong>Órgão Responsável</strong>: Ministério da Saúde</p><p><strong>Página Oficial</strong>: https://www.gov.br/saude/pt-br/</p><p>Foto: Divulgação/Governo Federal</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-10",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 145,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 7,
+    "published_at": "2023-05-10 16:42:43 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/10",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 33,
+    "category": {
+      "id": 9,
+      "name": {
+        "pt-BR": "Esporte"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Esporte para Vida"
+    },
+    "body": {
+      "pt-BR": "<p>Promover o o acesso da população ao esporte e à atividade física ao longo da vida, por meio do Sistema Nacional de Esporte, em espaços apropriados e acessíveis, que contemplem as dimensões de lazer, educacional, amadora e de alto desempenho, garantindo diversidade, inclusão social e qualidade de vida, em consonância com os valores do esporte.<br><br><strong>Órgão Responsável:</strong> Ministério do Esporte<br><br><strong>Página Oficial</strong>: https://www.gov.br/esporte/pt-br</p><p>Foto: Divulgação/Freepik</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-33",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 44,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 2,
+    "published_at": "2023-05-10 17:00:54 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/33",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 54,
+    "category": {
+      "id": 15,
+      "name": {
+        "pt-BR": "Justiça e Segurança Pública"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Segurança Pública com Cidadania"
+    },
+    "body": {
+      "pt-BR": "<p>Fortalecer a prevenção e o enfrentamento à violência e a criminalidade, promovendo a segurança pública cidadã, humanizada e integrada entre os entes federados e em articulação com a sociedade, com atenção especial à proteção de grupos sociais vulneráveis, de mulheres e pessoas negras. <br><br><strong>Órgão Responsável:</strong> Ministério da Justiça e Segurança Publica <br><br><strong>Página Oficial</strong>:<a href=\"http://www.gov.br/mj/pt-br/\" rel=\"noopener noreferrer\" target=\"_blank\">http://www.gov.br/mj/pt-br/</a></p><p>Foto: Tom Costa/Ministério da Justiça e Segurança Pública</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-54",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 62,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 2,
+    "published_at": "2023-05-10 23:13:02 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/54",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 32,
+    "category": {
+      "id": 28,
+      "name": {
+        "pt-BR": "Trabalho e Emprego"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Economia Popular, Solidária e Sustentável"
+    },
+    "body": {
+      "pt-BR": "<p>Promover a organização coletiva autogestionária, inclusiva e com acessibilidade, fundamentada na cooperação interseccional e na redistribuição, nos princípios comunitários, na participação e educação popular e socioambiental, na construção de redes produtivas e na valorização das dinâmicas territoriais.</p><p><strong>Órgão Responsável</strong>: Ministério do Trabalho e Emprego</p><p><strong>Página Oficial</strong>: https://www.gov.br/trabalho-e-previdencia/pt-br/</p><p>Foto: Divulgação/Freepik</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-32",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 73,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 5,
+    "published_at": "2023-05-10 17:00:32 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/32",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 26,
+    "category": {
+      "id": 6,
+      "name": {
+        "pt-BR": "Cultura"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Direito à Cultura"
+    },
+    "body": {
+      "pt-BR": "<p>Consolidar a cultura e as artes como direitos e vetores de desenvolvimento humano, social, econômico, sustentável e territorial, valorizando a diversidade cultural e regional, as expressões artísticas e simbólicas e a pluralidade étnica, racial, de gênero e de territórios.</p><p><strong>Órgão Responsável: </strong>Ministério da Cultura</p><p><strong>Página Oficial</strong>: https://www.gov.br/cultura/pt-br</p><p>Foto: Divulgação/Freepik</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-26",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 54,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 3,
+    "published_at": "2023-05-10 16:58:18 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/26",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 22,
+    "category": {
+      "id": 3,
+      "name": {
+        "pt-BR": "Ciência, Tecnologia e Inovação"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Consolidação do Sistema Nacional de Ciência, Tecnologia e Inovação – SNCTI"
+    },
+    "body": {
+      "pt-BR": "<p>Recuperar, expandir, modernizar, consolidar e integrar o Sistema Nacional de Ciência, Tecnologia e Inovação, promovendo a articulação com a sociedade civil e os governos estaduais e municipais, a difusão de capacidades e a redução de assimetrias.</p><p><strong>Órgão Responsável</strong>: Ministério da Ciência Tecnologia e Informação</p><p><strong>Página Oficial</strong>: https://www.gov.br/mcti/pt-br/</p><p>Foto: Divulgação/Freepik</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-22",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 109,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 10,
+    "published_at": "2023-05-10 16:56:38 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/22",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 23,
+    "category": {
+      "id": 12,
+      "name": {
+        "pt-BR": "Indústria, Comércio e Serviços"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Neoindustrialização"
+    },
+    "body": {
+      "pt-BR": "<p>Ampliar a inovação, a produtividade e a competitividade em direção a uma economia verde, diversificada, complexa e adensada, para o desenvolvimento econômico e social, a promoção de trabalho, a distribuição de renda e a redução das desigualdades sociais e regionais.<br><br><strong>Órgão Responsável</strong>: Ministério do Desenvolvimento, Indústria,Comércio e Serviços<br><br><strong>Página Oficial: </strong>http://www.gov.br/mdic/pt-br/</p><p>Foto: Divulgação/Freepik</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-23",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 65,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 4,
+    "published_at": "2023-05-10 16:57:31 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/23",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  },
+  {
+    "id": 11,
+    "category": {
+      "id": 27,
+      "name": {
+        "pt-BR": "Saúde"
+      }
+    },
+    "scope": {
+      "id": null,
+      "name": {
+        "en": "",
+        "pt-BR": ""
+      }
+    },
+    "participatory_space": {
+      "id": 1,
+      "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas?participatory_process_slug=programas"
+    },
+    "component": {
+      "id": 1
+    },
+    "title": {
+      "pt-BR": "Atenção Especializada à Saúde"
+    },
+    "body": {
+      "pt-BR": "<p>Ampliar o acesso às ações e serviços da Atenção Especializada à Saúde, conforme as necessidades de saúde da população, reduzindo as desigualdades de raça/etnia, de gênero, regionais e sociais, e promovendo a integralidade do cuidado</p><p><strong>Órgão Responsável</strong>: Ministério da Saúde</p><p><strong>Página Oficial</strong>: <a href=\"https://www.gov.br/saude/pt-br/\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.gov.br/saude/pt-br/</a></p><p>Foto: Divulgação/Ministério da Saúde</p>"
+    },
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "state": "",
+    "reference": "brasilpartipativo-PROP-2023-05-11",
+    "answer": {
+      "en": "",
+      "pt-BR": ""
+    },
+    "supports": 150,
+    "endorsements": {
+      "total_count": 0,
+      "user_endorsements": [
+
+      ]
+    },
+    "comments": 0,
+    "attachments": 1,
+    "followers": 7,
+    "published_at": "2023-05-10 16:41:01 -0300",
+    "url": "http://brasilparticipativo.presidencia.gov.br/processes/programas/f/1/proposals/11",
+    "meeting_urls": [
+
+    ],
+    "related_proposals": [
+
+    ],
+    "is_amend": false,
+    "original_proposal": {
+      "title": null,
+      "url": null
+    }
+  }
+]
